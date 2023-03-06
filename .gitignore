@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+# Ignore every folder that begins with "week"
+week*/
+
+# Ignore every folder that begins with "data"
+data*/
+
+Learning-Geospatial-Analysis-with-Python-Third-Edition/
+
